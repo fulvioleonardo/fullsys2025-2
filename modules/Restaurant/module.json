@@ -1,0 +1,6 @@
+{
+    "name": "Restaurant",
+    "alias": "restaurant",
+    "description": "Restaurant module with POS and table management.",
+    "active": true
+}
